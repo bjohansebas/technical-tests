@@ -1,0 +1,13 @@
+{
+  "recommendations": [
+    // Linting / Formatting
+    "biomejs.biome",
+    "dbaeumer.vscode-eslint",
+    "usernamehw.errorlens",
+    "prisma.prisma",
+    "bradlc.vscode-tailwindcss",
+
+    // MDX Authoring
+    "unifiedjs.vscode-mdx"
+  ]
+}
